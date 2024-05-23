@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "webdl": "ts-node src/webdl.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.8"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "ts-node": "^10.9.2"
+  }
+}
